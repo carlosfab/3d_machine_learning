@@ -6,4 +6,4 @@ This repository contains code for all 3D machine learning articles published on 
 
 | **Date** | **Article** | **Code** |
 |---|---|---|
-|01/12/24|[Point Cloud Processing with Open3D](https://sigmoidal.ai/en/point-cloud-processing-with-open3d/)|[Code](https://github.com/carlosfab/3d_machine_learning/notebooks/point-cloud-processing-with-open3d.ipynb)|
+|01/12/24|[Point Cloud Processing with Open3D](https://sigmoidal.ai/en/point-cloud-processing-with-open3d/)|[Code](https://github.com/carlosfab/3d_machine_learning/blob/main/notebooks/point-cloud-processing-with-open3d.ipynb)|
